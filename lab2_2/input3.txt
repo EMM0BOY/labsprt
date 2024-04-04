@@ -1,0 +1,8 @@
+1
+3
+Apple
+Banana
+Cherry
+Banana
+Cherry
+Apple
