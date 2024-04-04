@@ -1,0 +1,15 @@
+barrier
+rooster
+roaster
+coasted
+roasted
+coastal
+postal
+
+barrier roasted
+rooster roasted
+roaster roasted
+coasted roasted
+roasted roasted
+coastal roasted
+postal roasted

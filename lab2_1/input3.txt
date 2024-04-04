@@ -1,0 +1,15 @@
+bicycle
+rooster
+roaster
+coasted
+roasted
+coastal
+postal
+
+bicycle roasted
+rooster roasted
+roaster roasted
+coasted roasted
+roasted roasted
+coastal roasted
+postal roasted
